@@ -1,0 +1,5 @@
+{
+  "name": "Fabula Evreni",
+  "description": "A collaborative storytelling application where users contribute to a branching narrative. Users submit sentences, vote on them, and the winning sentences create new story branches, expanding the Fabula Universe.",
+  "requestFramePermissions": []
+}
